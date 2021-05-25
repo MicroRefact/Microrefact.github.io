@@ -1,4 +1,4 @@
 source "https://rubygems.org"
 
-gem "githbub-pages"
+gem "github-pages"
 

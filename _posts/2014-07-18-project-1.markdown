@@ -1,14 +1,16 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: restaurantServer
+subtitle:
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: svgexport-1.svg
+img: restaurant.svg
 thumbnail: githubPerfil.png
+proposed: RestaurantServer.png
+diagram : http://www.plantuml.com/plantuml/svg/pLRBRY8n4BpdA_Y2INWCfoWA6q1YjGy4H3bFXWwnOknPsvCLMkNVrnvGS9b6GKiEUyYbgwlSNPKnlhMkCAvUoukgA5-A5RMkMjVNOosNP6vkMdykxcHXRUigUw37EPMr4MvpfzMJMDMcS48ht_BstlJrjnlKxdcadDbCjL2EGnVwXTHOI4ScXQT6lufbKfyet_bKb7HvRyaCoHL2sZcPLr7IP5t9y7SUuSVeOQAy4SfJeYdydiveAPDvBeUBdutor0XLYafI0x-zEzZc76nd_3212osW2iYEbTRvETkm5N_s9nFtpa0LuvXHfQrmsco2qBcDt_rWZ9di6hk-Q7QChSF5ric-2DdeGc4QHXDQ7G1HHb27KtajXWhu2H9xpmvQU6WRsL3OPwZEw5TDrbq6JnjqLqWyxaH9p1R5eoGCxVpMS3RcYwFlj98akroItMpR2pO3mfJ0ynHaBUtkvYBhpqblo2uu6pUXmObOoE-uIa2FqE4RI8U6tJwPyj6trkCIwcNmZnWAC_AojIcK2ufa1bKbHPdQkYLY7015cKETtQS7-qJqezlat3Pv1l4oiq77iNeoUWgp6-JiJPmd5op_NUKdtQuvV7qyUmi27rphSwxrmpF0xrTfPIDXNu-6WVgWTb6E07tJAw76sgoXEXShTL-bvIXqM1oa_x6RZQF_uUyTqcTQ4azl8AHpZVYuOG8P1Pqm2XFC7ipmj4OZRS5z-1Pq0-LPWBzNK_R9zoloqiS2T-VzXqJCuk22kYMr36_xlm00
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
+client: https://github.com/asledziewski/restaurantServer
 category: Web Development
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
