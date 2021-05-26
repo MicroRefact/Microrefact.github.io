@@ -1,0 +1,21 @@
+---
+title: HrEsayWebApiPune
+subtitle: 
+layout: default
+modal-id: 8
+date: 2014-07-14
+img: diagram/domainHrEsayWebApiPune-master.svg
+thumbnail: githubPerfilRed.png
+proposed: proposed/hr.jpg
+proposed2: proposed/hr2.jpg
+proposed3: proposed/hr3.jpg
+proposed4: proposed/hr4.jpg
+proposed5: proposed/hr5.jpg
+diagram: diagram/domainHrEsayWebApiPune-master.svg
+alt: image-alt
+project-date: https://anonymous.4open.science/r/HrEsayWebApiPuneMs-0B79
+client: https://github.com/Aaryatech/HrEsayWebApiPune
+category: Web Development
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---
