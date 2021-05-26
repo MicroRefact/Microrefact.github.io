@@ -15,10 +15,27 @@
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
                             <h3> Microservices Proposal</h3>
+                            
                             <a href="/img/portfolio/{{post.proposed}}" target="_blank"> 
                                 <img src="img/portfolio/{{ post.proposed }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             </a>
-
+                            {% if post.proposed2 != null %}
+                            <a href="/img/portfolio/{{post.proposed2}}" target="_blank"> 
+                                <img src="img/portfolio/{{ post.proposed2 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            </a>
+                            {% endif%}
+                            {% if post.proposed3 != null %}
+                            <a href="/img/portfolio/{{post.proposed3}}" target="_blank"> 
+                                <img src="img/portfolio/{{ post.proposed3 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            </a>
+                            {% endif%}
+                            {% if post.proposed4 != null %}
+                            <a href="/img/portfolio/{{post.proposed4}}" target="_blank"> 
+                                <img src="img/portfolio/{{ post.proposed4 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            </a>
+                            {% endif%}
+                            
+                            
                                 <hr class="star-primary">
                             <h3>Class diagram of the refactored code</h3>
                                <a href={{post.diagram}} >
@@ -30,7 +47,7 @@
                                     </strong>
                                 </li>
                                 <li>Refactored Source code:
-                                    <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
+                                    <strong><a href="{{post.project-date}}"> Repository</a>
                                     </strong>
                                 </li>
                             </ul>
