@@ -11,7 +11,7 @@ proposed2: proposed/hr2.jpg
 proposed3: proposed/hr3.jpg
 proposed4: proposed/hr4.jpg
 proposed5: proposed/hr5.jpg
-diagram: diagram/domainHrEsayWebApiPune-master.svg
+diagram: img/portfolio/diagram/domainHrEsayWebApiPune-master.svg
 alt: image-alt
 project-date: https://anonymous.4open.science/r/HrEsayWebApiPuneMs-0B79
 client: https://github.com/Aaryatech/HrEsayWebApiPune
